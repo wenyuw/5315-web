@@ -123,39 +123,39 @@
     {
       "name": "Barney Bowzer",
       "designation": "Systems Developer",
-      "salary": "80,750",
-      "joining_date": "2009/12/24",
+      "salary": "$80,750",
+      "joining_date": "2009/12/23",
       "office": "Seattle",
       "extension": "8314"
     },
     {
       "name": "Wendy Wu",
       "designation": "Accounting Manager",
-      "salary": "85,150",
-      "joining_date": "2016/1/3",
+      "salary": "$85,150",
+      "joining_date": "2016/01/03",
       "office": "Seattle",
       "extension": "4812"
     },
     {
       "name": "Angela Aspon",
       "designation": "Internal Audit Director",
-      "salary": "180,350",
-      "joining_date": "2017/2/24",
+      "salary": "$180,350",
+      "joining_date": "2017/02/24",
       "office": "Seattle",
       "extension": "4567"
     },
     {
       "name": "Sigrid Li",
       "designation": "Tax Accoutant",
-      "salary": "70,750",
-      "joining_date": "2009/9/31",
+      "salary": "$70,750",
+      "joining_date": "2009/09/31",
       "office": "Seattle",
       "extension": "9870"
     },
     {
       "name": "Karla Green",
       "designation": "Office Manager",
-      "salary": "59,975",
+      "salary": "$59,975",
       "joining_date": "2009/12/24",
       "office": "Seattle",
       "extension": "0010"
@@ -163,31 +163,31 @@
     {
       "name": "Mariam Yazdani",
       "designation": "Internal Auditor",
-      "salary": "60,750",
-      "joining_date": "2007/7/24",
+      "salary": "$60,750",
+      "joining_date": "2007/07/24",
       "office": "Seattle",
       "extension": "8314"
     },
     {
       "name": "Black Lively",
       "designation": "Sales Associate",
-      "salary": "45,750",
-      "joining_date": "2013/11/1",
+      "salary": "$45,750",
+      "joining_date": "2013/11/01",
       "office": "Shanghai",
       "extension": "4320"
     },
     {
       "name": "Chris Pratt",
       "designation": "Managing Director",
-      "salary": "150,750",
-      "joining_date": "2000/1/13",
+      "salary": "$150,750",
+      "joining_date": "2000/01/13",
       "office": "Seattle",
       "extension": "9773"
     },
     {
       "name": "Jamie Chung",
       "designation": "Sales Associate",
-      "salary": "45,750",
+      "salary": "$45,750",
       "joining_date": "2009/12/24",
       "office": "Seoul",
       "extension": "6899"
@@ -195,8 +195,8 @@
     {
       "name": "Joey Tribiani",
       "designation": "Business Intelligence Engineer",
-      "salary": "320,980",
-      "joining_date": "1999/8/10",
+      "salary": "$320,980",
+      "joining_date": "1999/08/10",
       "office": "New York",
       "extension": "6712"
     }
