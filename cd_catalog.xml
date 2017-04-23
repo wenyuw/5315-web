@@ -39,7 +39,7 @@
 		<COMPANY>BMG</COMPANY>
 		<PRICE>9.90</PRICE>
 		<YEAR>1997</YEAR>
-	</CD>
+	</CD>	
 	<CD>
 		<TITLE>One night only</TITLE>
 		<ARTIST>Bee Gees</ARTIST>
@@ -207,5 +207,77 @@
 		<COMPANY>EMI</COMPANY>
 		<PRICE>8.20</PRICE>
 		<YEAR>1987</YEAR>
+	</CD>
+	<CD> 
+		<TITLE>Fantasy</TITLE>
+		<ARTIST>Jay Chou</ARTIST>
+		<COUNTRY>China</COUNTRY>
+		<COMPANY>Sony Music Taiwan</COMPANY>
+		<PRICE>10.50</PRICE>
+		<YEAR>2001</YEAR>
+	</CD>	
+	<CD> 
+		<TITLE>Divide</TITLE>
+		<ARTIST>Ed Sheeran</ARTIST>
+		<COUNTRY>UK</COUNTRY>
+		<COMPANY>Atlantic</COMPANY>
+		<PRICE>9.50</PRICE>
+		<YEAR>2017</YEAR>
+	</CD>	
+	<CD> 
+		<TITLE>X</TITLE>
+		<ARTIST>Ed Sheeran</ARTIST>
+		<COUNTRY>UK</COUNTRY>
+		<COMPANY>Atlantic</COMPANY>
+		<PRICE>9.50</PRICE>
+		<YEAR>2014</YEAR>
+	</CD>	
+	<CD> 
+		<TITLE>Graduation</TITLE>
+		<ARTIST>Kanye West</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>Def Jam</COMPANY>
+		<PRICE>11.15</PRICE>
+		<YEAR>2007</YEAR>
+	</CD>	
+	<CD> 
+		<TITLE>Speak Now</TITLE>
+		<ARTIST>Taylor Swift</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>Big Machine</COMPANY>
+		<PRICE>8.50</PRICE>
+		<YEAR>2010</YEAR>
+	</CD>	
+	<CD> 
+		<TITLE>1989</TITLE>
+		<ARTIST>Taylor Swift</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>Big Machine</COMPANY>
+		<PRICE>10.25</PRICE>
+		<YEAR>2014</YEAR>
+	</CD>	
+	<CD> 
+		<TITLE>Tattoos</TITLE>
+		<ARTIST>Jason Derulo</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>Warner Bros</COMPANY>
+		<PRICE>8.65</PRICE>
+		<YEAR>2013</YEAR>
+	</CD>	
+	<CD> 
+		<TITLE>From Under the Cork Tree</TITLE>
+		<ARTIST>Fall Out Boy</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>Island</COMPANY>
+		<PRICE>7.95</PRICE>
+		<YEAR>2005</YEAR>
+	</CD>	
+	<CD> 
+		<TITLE>Legendary</TITLE>
+		<ARTIST>Summerset</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>Fearless</COMPANY>
+		<PRICE>10.20</PRICE>
+		<YEAR>2013</YEAR>
 	</CD>
 </CATALOG>
